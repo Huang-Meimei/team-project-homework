@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="647368db-56b9-40fd-a62b-4d2a7ddfce32" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Book/Main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Book/Main.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Book/guide.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Book/my_book.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Book/my_book.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Book/online_book.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Book/online_book.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Book/success.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Book/success.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Book/test.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Book/test.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Content.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Content.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Login_register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Login_register.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/NotFound.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/NotFound.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Register.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/User_content.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/User_content.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Userstorage/About_Volunteers.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Userstorage/About_Volunteers.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Userstorage/Message_View.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Userstorage/Message_View.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Userstorage/Modify_Personal_Information.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Userstorage/Modify_Personal_Information.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/epidemicMap/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/epidemicMap/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/epidemicTrend/chinaTrend.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/epidemicTrend/chinaTrend.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/epidemicTrend/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/epidemicTrend/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/epidemicTrend/worldTrend.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/epidemicTrend/worldTrend.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/realTimeNews.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/realTimeNews.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22fg998ZmVsVSdZUTPcMBnc5SB3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="647368db-56b9-40fd-a62b-4d2a7ddfce32" name="Default Changelist" comment="" />
+      <created>1640233901662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640233901662</updated>
+      <workItem from="1640233905196" duration="3101000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="270" y="62" key="SettingsEditor" timestamp="1640234248027">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1640234248027" />
+  </component>
+</project>
